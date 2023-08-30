@@ -2,8 +2,8 @@
 This project is based on: https://www.thingiverse.com/thing:6063303
 
 The repository was created due to the change of the script executing the program, the change of the LED ring, which made it necessary to change one element.
-![plot](images/IMG_1929.heic)
-![plot](images/IMG_1932.heic)
+![plot](images/IMG_1929.jpg)
+![plot](images/IMG_1932.jpg)
 
 ## List of components
 - [Mini display 0.36'](https://pl.aliexpress.com/item/1005001566508703.html?spm=a2g0o.order_list.order_list_main.5.3f171c24MeULNV&gatewayAdapt=glo2pol)
