@@ -17,7 +17,7 @@ I changed the LED ring to a smaller one due to availability in my country. As a 
 
 Then, however, there will be problems with two parts. Part_1 will not fit the size of the ESP32. Here I drilled a hole on one side to insert the button that blocked the mounting of the plate.
 
-The second problem is with the display (Part_9), it will not fit the original item. As part of that, I redrawn it, widening the hole it's supposed to go in. You can find the STL file here: [link].
+The second problem is with the display (Part_9), it will not fit the original item. As part of that, I redrawn it, widening the hole it's supposed to go in. You can find the STL file here: [Display clock holder](display_clock_holder.stl).
 
 The rest of the parts are ok.
 
