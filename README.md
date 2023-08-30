@@ -26,6 +26,8 @@ The code has been changed due to incorrect operation and hard codes on the numbe
 
 The animations that occur every hour have also been changed (shown below) due to preference.
 
+Link to original code: https://github.com/jejelinge/IRON_MAN_ARC_REACTOR
+
 ## Animations
 ### Clock startup
 ![plot](images/IMG_1928.gif)
