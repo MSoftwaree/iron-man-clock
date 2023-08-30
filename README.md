@@ -28,6 +28,6 @@ The animations that occur every hour have also been changed (shown below) due to
 
 ## Animations
 ### Clock startup
-(gif)
+![plot](images/IMG_1928.gif)
 ### Every hour animation
-(gif)
+![plot](images/IMG_1925.gif)
